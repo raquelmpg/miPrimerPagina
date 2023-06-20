@@ -43,6 +43,10 @@ p {
   width: 250px;
 }
 
+.greeting {
+  text-align: center;
+}
+
 footer {
   height: 150px;
   background-color: rgb(176, 8, 8);
